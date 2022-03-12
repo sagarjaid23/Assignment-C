@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\bin\Debug\net5.0\Basic Program.exe
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\bin\Debug\net5.0\Basic Program.deps.json
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\bin\Debug\net5.0\Basic Program.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\bin\Debug\net5.0\Basic Program.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\bin\Debug\net5.0\Basic Program.dll
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\bin\Debug\net5.0\Basic Program.pdb
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\Basic Program.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\Basic Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\Basic Program.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\Basic Program.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\Basic Program.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\Basic Program.dll
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\refint\Basic Program.dll
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\Basic Program.pdb
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\Basic Program.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day5\Basic Program\Basic Program\obj\Debug\net5.0\ref\Basic Program.dll
